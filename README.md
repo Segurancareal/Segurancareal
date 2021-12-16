@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Segurancareal">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Segurancareal&show_icons=true&theme=dracula&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segurancareal&lshow_icons=true&theme=dracula&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Segurancareal&show_icons=true&theme=algolia&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Segurancareal&lshow_icons=true&theme=algolia&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
 </div>
   
   ## Entre em contato com a gente. 😉
